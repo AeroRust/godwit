@@ -19,7 +19,6 @@ pub struct AirSpeedModule {
 }
 
 impl AirSpeedModule{
-
 }
 
 #[derive(Clone, Debug)]
